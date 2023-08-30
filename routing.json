@@ -1,4 +1,4 @@
 {
-  "apiHost" : "https://lilyvalleys.synology.me:5051",
+  "apiHost" : "http://192.168.35.96:8080",
   "modDate" : "2023-08-18"
 }
